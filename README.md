@@ -61,7 +61,7 @@ The API will be accessible at `http://localhost:8080`.
 
 ```json
 {
-  "to": "kaushal@gmail.com",
+  "to": "mohsin@gmail.com",
   "subject": "Your Subject",
   "message": "Hello, this is the email body."
 }
@@ -75,7 +75,7 @@ The API will be accessible at `http://localhost:8080`.
 
 ```json
 {
-  "to": "kaushal@gmail.com",
+  "to": "mohsin@gmail.com",
   "subject": "Your Subject",
   "message": "Hello, this is the email body.",
   "attachments": [
